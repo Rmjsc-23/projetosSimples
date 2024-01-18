@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans&display=swap%27%29%3B);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(#79e4a6, #1bc296);
+}
+
+.search-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #0a1b2d;
+    height: 40px;
+    padding: 10px;
+    border-radius: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-txt{
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+    color: #f0f5fb;
+    font-size: 16px;
+    line-height: 40px;
+    width: 0; /*Tiramos o widht para que ele aparce quando passarmos o mouese por cima*/
+    transition: 0.4s;
+}
+
+::-webkit-input-placeholder{ /*Isso Muda a cor da letra de fundo, no caso a 'pesquisar', de todos os placeholde*/
+    color: #1e3754;
+}
+
+.search-btn{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #0a1b2d;
+    display: flex;
+    align-items: center;
+    justify-content: space-around; /*Coloquei assim, mas se der problema de alinhamento, mude para o 'center'*/
+    transition: 0.4s;
+}
+
+.search-box:hover > .search-txt{ /*Aqui colocamos que ao passar o mouse sobre o search-box, vai aumentar o tamanho do search-txt*/
+    width: 240px; /*Lembra ali em cima que colocamos como 'widht: 0;', agora ele vai aumentar de tamanho*/
+    padding: 0 6px;
+}
+
+.search-box:hover > .search-btn{
+    background: #f0f5fb;
+    height: 30px;
+    width: 30px;
+    display: flex;
+}
+
+.search-box:hover > .search-btn img{
+    width: 18px;
+}
