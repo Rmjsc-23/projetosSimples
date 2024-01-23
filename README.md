@@ -3,14 +3,16 @@
 ## Bem-vindo ao repositório que abriga alguns dos meus primeiros projetos no mundo do desenvolvimento web! Abaixo, você encontrará uma breve descrição de cada projeto, todos ## desenvolvidos com HTML, CSS e JavaScript. Estes são projetos mais simples, adequados para iniciantes, mas representam importantes passos na minha jornada de aprendizado.
 
 ## Lista de Projetos
-1. ### Página de Login Simples
-   Apresento um projeto simples de uma página de login que desenvolvi utilizando HTML e CSS. Este é um exemplo básico de como criar uma interface de login limpa e fácil de usar.
+
+ ## Página de Login Simples
+   Apresento um projeto simples de uma página de login que desenvolvi utilizando HTML e CSS. Este é um exemplo básico de como criar uma interface de login limpa e fácil de 
+   usar.
 
    ### Funcionalidades
 - **Campos de Entrada:** Campos para inserção de e-mail ou nome de usuário e senha.
 - **Botão de Login:** Um botão que os usuários podem clicar para iniciar a sessão.
 
-2. ### Barra de Pesquisa:
+## Barra de Pesquisa:
    Este é um projeto muito simples de uma barra de pesquisa que desenvolvi utilizando HTML e CSS. A ideia por trás deste projeto é criar uma barra de pesquisa básica, ideal 
    para iniciantes no desenvolvimento web.
    
@@ -18,7 +20,7 @@
 - **Barra de Pesquisa:** Uma caixa de texto simples que permite aos usuários inserir consultas de pesquisa.
 - **Botão de Pesquisa:** Um botão que os usuários podem clicar para iniciar a pesquisa.
   
-3. ### Formulário de Contato Simples
+## Formulário de Contato Simples
    Apresento um projeto simples de um formulário de contato que desenvolvi utilizando HTML e CSS. Este é um exemplo básico de como criar uma interface de formulário amigável 
    para usuários que desejam entrar em contato.
    
@@ -26,7 +28,7 @@
 - **Campos de Entrada:** Nome, E-mail, Assunto e Mensagem.
 - **Botão de Envio:** Um botão que os usuários podem clicar para enviar suas informações.
   
-4. ### Barra de Navegação Simples
+## Barra de Navegação Simples
   Apresento um projeto simples de uma barra de navegação que desenvolvi utilizando HTML e CSS. Esta é uma implementação básica, ideal para quem está iniciando no         
   desenvolvimento web e deseja criar uma barra de navegação clara e fácil de entender.
 
@@ -34,7 +36,7 @@
  - **Links de Navegação:** Inclui links para diferentes seções do site, como "Início", "Sobre", "Serviços" e "Contato".
  - **Estilo Responsivo:** O design da barra de navegação é responsivo, adaptando-se a diferentes tamanhos de tela.
    
-5. ### Portfólio Básico
+## Portfólio Básico
 
 Apresento um projeto simples de um portfólio que desenvolvi utilizando HTML e CSS. Este portfólio básico é projetado para iniciantes no desenvolvimento web que desejam criar uma presença online para exibir suas habilidades e projetos.
 
@@ -44,7 +46,7 @@ Apresento um projeto simples de um portfólio que desenvolvi utilizando HTML e C
 - **Seção de Projetos:** Uma galeria de projetos, cada um com uma breve descrição e links para mais detalhes.
 - **Rodapé com Contatos:** Links para minhas redes sociais e informações de contato.
   
-6. ### Portfólio Completo de Desenvolvedor
+## Portfólio Completo de Desenvolvedor
   Apresento meu projeto completo de portfólio de desenvolvedor, desenvolvido com HTML, CSS e Javascript. Este portfólio foi criado para proporcionar uma visão abrangente das 
   minhas habilidades, experiências e projetos, utilizando uma abordagem interativa e atraente.
 
