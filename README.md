@@ -2,8 +2,7 @@
 # Projetos Simples de HTML, CSS e JavaScript
 Bem-vindo ao repositório que abriga alguns dos meus primeiros projetos no mundo do desenvolvimento web! Abaixo, você encontrará uma breve descrição de cada projeto, todos  desenvolvidos com HTML, CSS e JavaScript. Estes são projetos mais simples, adequados para iniciantes, mas representam importantes passos na minha jornada de aprendizado.
 
-## Lista de Projetos
-
+# Lista de Projetos
  ## Página de Login Simples
    Apresento um projeto simples de uma página de login que desenvolvi utilizando HTML e CSS. Este é um exemplo básico de como criar uma interface de login limpa e fácil de 
    usar.
