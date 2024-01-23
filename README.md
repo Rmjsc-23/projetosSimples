@@ -1,6 +1,6 @@
 
 # Projetos Simples de HTML, CSS e JavaScript
-## Bem-vindo ao repositório que abriga alguns dos meus primeiros projetos no mundo do desenvolvimento web! Abaixo, você encontrará uma breve descrição de cada projeto, todos ## desenvolvidos com HTML, CSS e JavaScript. Estes são projetos mais simples, adequados para iniciantes, mas representam importantes passos na minha jornada de aprendizado.
+Bem-vindo ao repositório que abriga alguns dos meus primeiros projetos no mundo do desenvolvimento web! Abaixo, você encontrará uma breve descrição de cada projeto, todos  desenvolvidos com HTML, CSS e JavaScript. Estes são projetos mais simples, adequados para iniciantes, mas representam importantes passos na minha jornada de aprendizado.
 
 ## Lista de Projetos
 
